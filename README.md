@@ -1,1 +1,1 @@
-# Databases-AUTh-Course
+Databases AUTh Course
